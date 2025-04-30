@@ -145,7 +145,8 @@ The recognition pipeline is divided into the following phases:
 - RAM: 2GB or more
 
 ---
+## 👩‍💻 Author
 
-**Feel free to explore, use, and extend this project. Contributions and suggestions are always welcome!**
+Developed by [sruthivellore](https://github.com/sruthivellore).
 
 ---
