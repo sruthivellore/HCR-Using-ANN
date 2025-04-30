@@ -28,21 +28,14 @@ This project demonstrates handwritten digit recognition using a simple yet effec
 
 ---
 
-## 🛠️ Tech Stack  
-- **Core framework**:  
-  ![Python](https://img.shields.io/badge/Python-3.9%2B://img.shields.io/badge/T  
-    
-    
-  ![Keras](https://img.shieVisualization**:  
-  Matplotlib -  Seaborn  
-- **Environment**:  
+**Environment**:  
   Jupyter Notebook -  Google Colab  
 
 ---
 
 ## 🚀 Quick Start  
-**Run in Google Colab**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab.research.google.com/github/sruthivellore/HCR-Using-ANNLocal installation**:  
+ 
+**installation**:  
 ```bash
 git clone https://github.com/sruthivellore/HCR-Using-ANN.git
 cd HCR-Using-ANN
@@ -57,9 +50,6 @@ jupyter notebook
 - Training accuracy: ~98%  
 - Validation accuracy: ~97%  
 - Loss convergence within 15 epochs  
-
-**Sample visualization**:  
-![Training History](https://via.placeholder.com/600x400.png?text=Accuracy+and+Loss+Graphs actual graphs from your notebook*
 
 ---
 
